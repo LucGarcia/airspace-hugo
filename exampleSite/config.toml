@@ -72,10 +72,10 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [Languages.fr]
-contentDir = "content/español"
+contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Soco Beach Volley Club"
-languageCode = "es-es"
-languageName = "Es"
+languageCode = "fr-fr"
+languageName = "Fr"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
