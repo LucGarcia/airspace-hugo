@@ -1,5 +1,5 @@
 baseURL = "http://beachvolleytenerife.netlify.com"
-disableLanguages = []
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
