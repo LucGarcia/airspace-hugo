@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace-hugo"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Soco Beach Volley Club Tenerife"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
@@ -72,10 +72,10 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [Languages.fr]
-contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
+contentDir = "content/español"
+copyright = "Copyright &copy; 2020 Soco Beach Volley Club"
+languageCode = "es-es"
+languageName = "Es"
 weight = 2
 [[Languages.fr.menu.footer]]
 URL = "about"
