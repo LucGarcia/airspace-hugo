@@ -13,64 +13,32 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
-name = "About"
+name = "Training"
 weight = 1
 [[Languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.en.menu.footer]]
 URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+name = "Camps"
+weight = 2
 [[Languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 6
+weight = 3
 [[Languages.en.menu.main]]
 URL = "/en"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About"
+name = "Training"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
-[[Languages.en.menu.main]]
 URL = "service"
-name = "Service"
-weight = 4
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+name = "Camps"
+weight = 3
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 7
+weight = 5
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "Copyright &copy; 2020 Soco Beach Volley Club"
@@ -82,25 +50,13 @@ URL = "about"
 name = "Clases"
 weight = 1
 [[Languages.es.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[Languages.es.menu.footer]]
 URL = "service"
 name = "Camps"
-weight = 3
-[[Languages.es.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.es.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+weight = 2
 [[Languages.es.menu.footer]]
 URL = "contact"
 name = "Contacto"
-weight = 6
+weight = 3
 [[Languages.es.menu.main]]
 URL = "/"
 name = "Inicio"
@@ -110,33 +66,17 @@ URL = "about"
 name = "Clases"
 weight = 2
 [[Languages.es.menu.main]]
-URL = "project"
-name = "Projet"
-weight = 3
-[[Languages.es.menu.main]]
 URL = "service"
 name = "Camps"
-weight = 4
+weight = 3
 [[Languages.es.menu.main]]
 URL = "blog"
 name = "Notícias"
-weight = 5
-[[Languages.es.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.es.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.es.menu.main]]
-URL = "pricing"
-name = "Tarification"
-parent = "Pages"
+weight = 4
 [[Languages.es.menu.main]]
 URL = "contact"
 name = "Contacto"
-weight = 7
+weight = 5
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
@@ -150,7 +90,7 @@ google_analitycs_id = ""
 location = "Playa de Punta Brava, Puerto de la Cruz"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "682539653"
+mobile = "+34682539653"
 multi_author = false
 [params.cookies]
 enable = true
@@ -190,21 +130,6 @@ enable = true
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
