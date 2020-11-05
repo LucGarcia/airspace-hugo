@@ -54,9 +54,13 @@ URL = "service"
 name = "Camps"
 weight = 2
 [[Languages.es.menu.footer]]
+URL = "blog"
+name = "Notícias"
+weight = 3
+[[Languages.es.menu.footer]]
 URL = "contact"
 name = "Contacto"
-weight = 3
+weight = 4
 [[Languages.es.menu.main]]
 URL = "/"
 name = "Inicio"
