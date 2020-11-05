@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Soco Beach Volley Club Tenerife"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 Soco Beach Volley Club, All Rights Reserved"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -36,7 +36,7 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "/fr"
+URL = "/en"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
@@ -79,7 +79,7 @@ languageName = "Es"
 weight = 2
 [[Languages.es.menu.footer]]
 URL = "about"
-name = "About"
+name = "Clases"
 weight = 1
 [[Languages.es.menu.footer]]
 URL = "project"
@@ -87,7 +87,7 @@ name = "Project"
 weight = 2
 [[Languages.es.menu.footer]]
 URL = "service"
-name = "Service"
+name = "Camps"
 weight = 3
 [[Languages.es.menu.footer]]
 URL = "pricing"
@@ -99,15 +99,15 @@ name = "FAQ"
 weight = 5
 [[Languages.es.menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [[Languages.es.menu.main]]
 URL = "/"
-name = "Accueil"
+name = "Inicio"
 weight = 1
 [[Languages.es.menu.main]]
 URL = "about"
-name = "À propos"
+name = "Clases"
 weight = 2
 [[Languages.es.menu.main]]
 URL = "project"
@@ -115,11 +115,11 @@ name = "Projet"
 weight = 3
 [[Languages.es.menu.main]]
 URL = "service"
-name = "Un service"
+name = "Camps"
 weight = 4
 [[Languages.es.menu.main]]
 URL = "blog"
-name = "Blog"
+name = "Notícias"
 weight = 5
 [[Languages.es.menu.main]]
 hasChildren = true
@@ -135,22 +135,22 @@ name = "Tarification"
 parent = "Pages"
 [[Languages.es.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 7
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Cristian Sanz"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "socobeachvolley@gmail.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Playa de Punta Brava, Puerto de la Cruz"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = "(+34)682539653"
 multi_author = false
 [params.cookies]
 enable = true
@@ -158,8 +158,8 @@ expire_days = 2
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "28.4105321"
+map_longitude = "-16.5656361,17z"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
