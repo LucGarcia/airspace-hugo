@@ -208,3 +208,6 @@ link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
+[[params.social]]
+icon = "ion-social-instagram-outline"
+link = "#"
