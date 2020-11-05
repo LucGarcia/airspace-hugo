@@ -71,69 +71,69 @@ parent = "Pages"
 URL = "contact"
 name = "Contact"
 weight = 7
-[Languages.fr]
+[Languages.es]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Soco Beach Volley Club"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "about"
 name = "About"
 weight = 1
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "project"
 name = "Project"
 weight = 2
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "service"
 name = "Service"
 weight = 3
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "pricing"
 name = "Pricing"
 weight = 4
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "faq"
 name = "FAQ"
 weight = 5
-[[Languages.fr.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 6
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "/"
 name = "Accueil"
 weight = 1
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "about"
 name = "À propos"
 weight = 2
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "project"
 name = "Projet"
 weight = 3
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "service"
 name = "Un service"
 weight = 4
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 6
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "faq"
 name = "FAQ"
 parent = "Pages"
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "pricing"
 name = "Tarification"
 parent = "Pages"
-[[Languages.fr.menu.main]]
+[[Languages.es.menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 7
