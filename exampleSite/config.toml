@@ -44,15 +44,15 @@ URL = "service"
 name = "Camps"
 weight = 3
 [[Languages.en.menu.main]]
-weight = 4
 name = "More"
 hasChildren = true
+weight = 4
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "More"
   name = "FAQ"
   URL = "faq"
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "More"
   name = "Prices"
   URL = "pricing"
 [[Languages.en.menu.main]]
@@ -110,11 +110,11 @@ weight = 5
 name = "Más"
 hasChildren = true
   [[Languages.es.menu.main]]
-  parent = "Pages"
+  parent = "Más"
   name = "Preguntas frecuentes"
   URL = "faq"
   [[Languages.es.menu.main]]
-  parent = "Pages"
+  parent = "Más"
   name = "Precios"
   URL = "pricing"
 [[Languages.es.menu.main]]
