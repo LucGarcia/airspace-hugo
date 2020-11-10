@@ -20,9 +20,17 @@ URL = "service"
 name = "Camps"
 weight = 2
 [[Languages.en.menu.footer]]
+URL = "pricing"
+name = "Prices"
+weight = 3
+[[Languages.en.menu.footer]]
+URL = "faq"
+name = "FAQ"
+weight = 4
+[[Languages.en.menu.footer]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = 5
 [[Languages.en.menu.main]]
 URL = "/en"
 name = "Home"
@@ -35,6 +43,18 @@ weight = 2
 URL = "service"
 name = "Camps"
 weight = 3
+[[Languages.en.menu.main]]
+weight = 4
+name = "More"
+hasChildren = true
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "FAQ"
+  URL = "faq"
+  [[Languages.en.menu.main]]
+  parent = "Pages"
+  name = "Prices"
+  URL = "pricing"
 [[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
@@ -57,10 +77,18 @@ weight = 2
 URL = "blog"
 name = "Notícias"
 weight = 3
+[[Languages.en.menu.footer]]
+URL = "pricing"
+name = "Precios"
+weight = 4
+[[Languages.en.menu.footer]]
+URL = "faq"
+name = "Preguntas frecuentes"
+weight = 5
 [[Languages.es.menu.footer]]
 URL = "contact"
 name = "Contacto"
-weight = 4
+weight = 6
 [[Languages.es.menu.main]]
 URL = "/"
 name = "Inicio"
@@ -77,10 +105,22 @@ weight = 3
 URL = "blog"
 name = "Notícias"
 weight = 4
+[[Languages.en.menu.main]]
+weight = 5
+name = "Más"
+hasChildren = true
+  [[Languages.es.menu.main]]
+  parent = "Pages"
+  name = "Preguntas frecuentes"
+  URL = "faq"
+  [[Languages.es.menu.main]]
+  parent = "Pages"
+  name = "Precios"
+  URL = "pricing"
 [[Languages.es.menu.main]]
 URL = "contact"
 name = "Contacto"
-weight = 5
+weight = 6
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
@@ -91,7 +131,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "socobeachvolley@gmail.com"
 google_analitycs_id = ""
-location = "Playa de Punta Brava, Puerto de la Cruz"
+location = "Playa de María Jiménez, Punta Brava, Puerto de la Cruz"
 logo = "images/logo.png"
 logo_width = "150px"
 phone = "(+34)682539653"
