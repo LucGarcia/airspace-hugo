@@ -3,24 +3,19 @@ banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Tu escuela de voley playa <br/> en el Norte de Tenerife"
+  content : "Diviértete, ponte en forma y conoce gente aprendiendo a jugar a voley playa"
   button:
     enable : true
-    label : "Discover Our Project"
-    link : "project"
+    label : "Contacta con nosotros"
+    link : "contact"
 
 ############################# About #################################
 about:
   enable : true
-  title : "About Us"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
+  title : "Voley playa para todos los niveles"
+  description : "Nuestra pasión es que más gente descubra, aprenda y disfrute de practicar deporte al aire libre"
+  content : "Situado en una de las mejores playas de la isla de Tenerife, nuestro club es el lugar perfecto para el voley playa. Tanto si eres principiante y quieres aprender en un entorno relajado, como si buscas mejorar tu técnica o prepararte para torneos, tenemos un sitio para ti."
   image : "images/wrapper-img.png"
 
 
@@ -28,18 +23,18 @@ about:
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "¿QUÉ OFRECEMOS?"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  <str>Clases en grupo</str>. Con distintos horarios y niveles, nuestras clases en grupo son ideales para aprender de forma económica, ponerse en forma y conocer gente nueva en un ambiente distendido y sano.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  <str>Entrenamientos personalizados</str>. Perfectos para mejorar la técnica individual y el juego en pareja, nuestros entrenamientos personalizados son la forma más rápida de lograr resultados y prepararse para torneos y competiciones.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  <str>Volley Camps</str>. Nuestros campamentos de voley playa garantizan una semana inolvidable disfrutando del deporte en un clima perfecto todo el año, tanto para grupos de vacaciones como para empresas que busquen actividades en equipo.
   "
   button:
-    enable : true
+    enable : false
     label : "View Works"
     link : "project"
 
@@ -54,16 +49,16 @@ service:
 cta:
   enable : true
   bg_image : "images/call-to-action-bg.jpg"
-  title : "We design delightful digital experiences."
-  content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title : "Ven a jugar con nosotros"
+  content : "Disfruta del ejercicio al aire libre todo el año, ponte en forma sin esfuerzo, <br> mejora tu técnica con entrenadores profesionales y descubre un deporte que te enganchará."
   button:
     enable : true
-    label : "Tell Us Your Story"
+    label : "Escríbenos"
     link : "contact"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable : true
+  enable : false
   title : "Fun Facts About Us"
   description : "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
@@ -72,17 +67,17 @@ funfacts:
     - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Cups Of Coffee"
       count : "99"
-      
+
     # funfacts item loop
     - icon : "ion-ios-glasses-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Article Written"
       count : "45"
-      
+
     # funfacts item loop
     - icon : "ion-ios-compose-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Projects Completed"
       count : "125"
-      
+
     # funfacts item loop
     - icon : "ion-ios-timer-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Combined Projects"
@@ -95,14 +90,14 @@ funfacts:
       designation : "CEO-Themefisher"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
+
     # testimonial item loop
     - name : "Randi Renin"
       image : "images/clients/avater-1.jpg"
       designation : "CEO-Themefisher"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
-                
+
     # testimonial item loop
     - name : "Rose Rio"
       image : "images/clients/avater-3.jpg"
