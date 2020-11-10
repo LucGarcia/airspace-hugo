@@ -94,7 +94,7 @@ google_analitycs_id = ""
 location = "Playa de Punta Brava, Puerto de la Cruz"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "+34682539653"
+phone = "(+34)682539653"
 multi_author = false
 [params.cookies]
 enable = true
