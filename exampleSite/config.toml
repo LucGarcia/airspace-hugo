@@ -32,7 +32,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [[Languages.en.menu.main]]
-URL = "/en"
+URL = "/"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]
@@ -77,11 +77,11 @@ weight = 2
 URL = "blog"
 name = "Notícias"
 weight = 3
-[[Languages.en.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "pricing"
 name = "Precios"
 weight = 4
-[[Languages.en.menu.footer]]
+[[Languages.es.menu.footer]]
 URL = "faq"
 name = "Preguntas frecuentes"
 weight = 5
@@ -105,7 +105,7 @@ weight = 3
 URL = "blog"
 name = "Notícias"
 weight = 4
-[[Languages.en.menu.main]]
+[[Languages.es.menu.main]]
 weight = 5
 name = "Más"
 hasChildren = true
