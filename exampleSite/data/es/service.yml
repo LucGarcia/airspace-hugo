@@ -22,23 +22,23 @@ featured_service:
       icon : "ion-erlenmeyer-flask"
       color : "primary"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
+
     # featured service item loop
     - name : "Product Branding"
       icon : "ion-leaf"
       color : "primary-dark"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
-      
+
     # featured service item loop
     - name : "Game Development"
       icon : "ion-lightbulb"
       color : "primary-darker"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
 
-      
+
 ############################# Service ###############################
 service:
-  enable : true
+  enable : false
   title : "Our Services"
   description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
@@ -82,7 +82,7 @@ service:
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Brand Identity
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-      
+
 ############################# call to action #################################
 cta:
   enable : true
