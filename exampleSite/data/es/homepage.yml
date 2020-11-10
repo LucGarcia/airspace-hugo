@@ -25,13 +25,13 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "¿QUÉ OFRECEMOS?"
   content : "
-  <str>Clases en grupo</str>. Con distintos horarios y niveles, nuestras clases en grupo son ideales para aprender de forma económica, ponerse en forma y conocer gente nueva en un ambiente distendido y sano.
+  <b>Clases en grupo</b>. Con distintos horarios y niveles, nuestras clases en grupo son ideales para aprender de forma económica, ponerse en forma y conocer gente nueva en un ambiente distendido y sano.
 
 
-  <str>Entrenamientos personalizados</str>. Perfectos para mejorar la técnica individual y el juego en pareja, nuestros entrenamientos personalizados son la forma más rápida de lograr resultados y prepararse para torneos y competiciones.
+  <b>Entrenamientos personalizados</b>. Perfectos para mejorar la técnica individual y el juego en pareja, nuestros entrenamientos personalizados son la forma más rápida de lograr resultados y prepararse para torneos y competiciones.
 
 
-  <str>Volley Camps</str>. Nuestros campamentos de voley playa garantizan una semana inolvidable disfrutando del deporte en un clima perfecto todo el año, tanto para grupos de vacaciones como para empresas que busquen actividades en equipo.
+  <b>Volley Camps</b>. Nuestros campamentos de voley playa garantizan una semana inolvidable disfrutando del deporte en un clima perfecto todo el año, tanto para grupos de vacaciones como para empresas que busquen actividades en equipo.
   "
   button:
     enable : false
