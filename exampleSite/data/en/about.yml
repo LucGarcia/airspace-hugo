@@ -14,7 +14,7 @@ about:
   button:
     enable : true
     label : "Ver precios"
-    link : "prices"
+    link : "pricing"
 
 
 ################################ lessons #####################################
@@ -39,6 +39,7 @@ individual:
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
   velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
   dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+
 
 ################################ feature #####################################
 features:
