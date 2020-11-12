@@ -21,19 +21,42 @@
         {{ with .button }}
         <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
         {{ end }}
-        {{ end }}
+      </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ if $data.about.group-lessons.enable }}
+{{ with $data.about.group-lessons }}
+<section class="group-lessons section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
     </div>
-    <div class="row counter-box text-center mt-50">
-      {{ range .funfacts }}
-      <div class="col-md-2">
-        <div class="counter-item">
-          <i class="{{ .icon }}"></i>
-          <h4 class="count" data-count="{{ .count }}">0</h4>
-          <span>{{ .name }}</span>
-        </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ if $data.about.individual-lessons.enable }}
+{{ with $data.about.individual-lessons }}
+<section class="individual-lessons section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <img class="img-responsive" src="{{ .image | absURL }}">
       </div>
-      {{ end }}
+      <div class="col-md-6">
+        <h2>{{ .title | markdownify }}</h2>
+        <p class="mt-30">{{ .content | markdownify }}</p>
+      </div>
     </div>
   </div>
 </section>
