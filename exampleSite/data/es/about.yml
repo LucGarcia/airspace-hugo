@@ -18,7 +18,7 @@ about:
 
 
 ################################ lessons #####################################
-group-lessons:
+group:
   enable: true
   image: "images/company/company-group-pic.jpg"
   title: "Creative UX/UI Design Agency"
@@ -32,7 +32,7 @@ group-lessons:
   <b>Volley Camps</b>. Nuestros campamentos de voley playa garantizan una semana inolvidable disfrutando del deporte en un clima perfecto todo el año, tanto para grupos de vacaciones como para empresas que busquen actividades en equipo.
   "
 
-individual-lessons:
+individual:
   enable: true
   image: "images/company/company-group-pic.jpg"
   title: "Creative UX/UI Design Agency"
