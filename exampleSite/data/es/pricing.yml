@@ -3,44 +3,41 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Basic"
-      price: "$99"
-      content : "Perfect for single freelancers who work by themselves"
-      link : "#"
+    - name : "Clases en grupo"
+      price: "30€/mes"
+      content : "Ideales para conocer gente y aprender de forma divertida"
+      link : "contact"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
-        
+        - 3 clases de 90 minutos a la semana
+        - Diferentes niveles
+        - Horarios de mañana y tarde
+        - Entrenador profesional
+        - Posibilidad de participar en la liga de clubes
+
     # pricing table loop
-    - name : "Premium"
-      price: "$199"
-      content : "Suitable for small businesses with up to 5 employees"
-      link : "#"
+    - name : "Entrenamientos personales"
+      price: "20€/clase"
+      content : "Perfectas para mejorar la técnica y prepararse para competición"
+      link : "contact"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
-        
+        - Clase para 2 personas
+        - Diseño del entrenamiento personalizado
+        - Horarios variables
+        - Entrenador profesional
+        - Preparación específica para competición
+
     # pricing table loop
-    - name : "Advance"
-      price: "$299"
-      content : "Suitable for large businesses with unlimited employees"
-      link : "#"
+    - name : "Volley camps"
+      price: "variable"
+      content : "Para vacaciones en grupo o empresas que quieran mejorar el trabajo en equipo"
+      link : "contact"
       services:
-        - Unlimited agents
-        - 10 PSD Design
-        - HTML5 Markup
-        - Basic SEO
-        - Email Marketing
-        - 24/7 Tech Support
-        
+        - Clases adecuadas al nivel
+        - Torneo interno
+        - Distintas opciones de alojamiento
+        - Entrenador profesional
+        - Posibilidad de actividades complementarias
+
 ############################# call to action #################################
 cta:
   enable : true
