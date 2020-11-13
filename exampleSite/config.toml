@@ -9,7 +9,7 @@ title = "Soco Beach Volley Club Tenerife"
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Soco Beach Volley Club, All Rights Reserved"
 languageCode = "en-us"
-languageName = "En"
+languageName = "English"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
@@ -63,7 +63,7 @@ weight = 5
 contentDir = "content/spanish"
 copyright = "Copyright &copy; 2020 Soco Beach Volley Club"
 languageCode = "es-es"
-languageName = "Es"
+languageName = "Español"
 weight = 2
 [[Languages.es.menu.footer]]
 URL = "about"
