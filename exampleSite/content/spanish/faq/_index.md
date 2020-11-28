@@ -1,9 +1,9 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
+title: "Preguntas Frecuentes"
+description: "Consulta las dudas más habituales"
+subtitle : "Si no encuentras lo que estabas buscando, no dudes en contactar con nosotros."
 date: 2019-12-23T13:05:29+06:00
-draft: true
+draft: false
 bg_image: "images/featue-bg.jpg"
 ---
 
