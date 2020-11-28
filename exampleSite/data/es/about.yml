@@ -2,14 +2,20 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
+  title : "Clases de voley playa <br> para todos los niveles"
+  content: "La playa de María Jiménez, en el Puerto de la Cruz, es uno de los mejores enclaves de la isla de Tenerife para la
+          práctica del voley playa. Su microclima garantiza baja pluviosidad, vientos suaves y temperaturas suaves todo el año.
+          Esto nos permite ser el único club del Norte que juega y entrena en la playa.
 
 
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+          Nuestras clases son adecuadas para cualquier persona, independientemente de su estado físico o sus conocimientos previos.
+          Jugar a voley playa es ideal para mantenerse en forma, ya que mejora naturalmente la capacidad cardiorespiratoria, la fuerza muscular,
+          el equilibrio y la coordinación. Además, al ser al aire libre y en un entorno social, tiene beneficios para el estado de ánimo.
+
+
+          En Soco Beach Volley Club, ofrecemos clases para todos los niveles, en horarios de mañana y tarde, con entrenadores profesionales para
+          garantizar que aprendes y mejoras tu técnica de forma segura, sin lesiones y divertida. Además, para fomentar la competición positiva,
+          organizamos torneos internos y participamos en la Liga de Clubes de la isla de Tenerife."
 
   button:
     enable : true
@@ -21,24 +27,32 @@ about:
 group:
   enable: true
   image: "images/company/company-group-pic.jpg"
-  title: "Creative UX/UI Design Agency"
+  title: "Clases en grupo"
   content: "
-  <b>Clases en grupo</b>. Con distintos horarios y niveles, nuestras clases en grupo son ideales para aprender de forma económica, ponerse en forma y conocer gente nueva en un ambiente distendido y sano.
+  Nuestras clases colectivas están divididas en distintos grupos de entrenamiento según el nivel. En tu primera sesión, el entrenador asesorará tu técnica y te recomendará la mejor opción según tus necesidades:
 
 
-  <b>Entrenamientos personalizados</b>. Perfectos para mejorar la técnica individual y el juego en pareja, nuestros entrenamientos personalizados son la forma más rápida de lograr resultados y prepararse para torneos y competiciones.
+  <b>Iniciación</b>: para jugadores con menos de un año de práctica.
 
 
-  <b>Volley Camps</b>. Nuestros campamentos de voley playa garantizan una semana inolvidable disfrutando del deporte en un clima perfecto todo el año, tanto para grupos de vacaciones como para empresas que busquen actividades en equipo.
+  <b>Intermedio</b>: para jugadores entre uno y dos años de práctica.
+
+
+  <b>Senior</b>: para jugadores con más de dos años de práctica.
+
+  La tarifa mensual incluye tres clases de una hora y media por semana. También puedes pagar por clase, en caso de no poder asistir regularmente a los entrenamientos.
   "
 
 individual:
   enable: true
   image: "images/company/company-group-pic.jpg"
-  title: "Creative UX/UI Design Agency"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  title: "Entrenamientos personales"
+  content: "
+  Nuestros entrenamientos personalizados te permiten sacar el máximo rendimiento de tus clases. Después de realizar un análisis de tu técnica, tu forma física y tu estilo de juego, creamos un régimen de aprendizaje hecho a medida para lograr máximos resultados en el mínimo tiempo posible.
+
+
+  Las clases particulares duran una hora y media, y están pensadas para dos personas. Son ideales para parejas habituales que quieran mejorar su juego o prepararse para torneos. Esta opción permite mucha mayor flexibilidad de horarios comparada con las clases en grupo. También permiten trabajar por objetivos individuales, dándote la oportunidad de discutir con tu coach cuáles son los aspectos en los que más te interesa mejorar.
+  "
 
 ################################ feature #####################################
 features:
