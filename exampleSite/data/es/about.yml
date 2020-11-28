@@ -2,7 +2,7 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "Clases de voley playa <br> para todos los niveles"
+  title : "Clases de voley playa para todos los niveles"
   content: "La playa de María Jiménez, en el Puerto de la Cruz, es uno de los mejores enclaves de la isla de Tenerife para la
           práctica del voley playa. Su microclima garantiza baja pluviosidad, vientos suaves y temperaturas suaves todo el año.
           Esto nos permite ser el único club del Norte que juega y entrena en la playa.
@@ -39,6 +39,7 @@ group:
 
 
   <b>Senior</b>: para jugadores con más de dos años de práctica.
+
 
   La tarifa mensual incluye tres clases de una hora y media por semana. También puedes pagar por clase, en caso de no poder asistir regularmente a los entrenamientos.
   "
