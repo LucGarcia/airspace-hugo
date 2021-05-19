@@ -1,15 +1,16 @@
 ########################### about service #############################
 about:
   enable : true
-  title : "Creative UX/UI Design Agency"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
-          cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
-          officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
-          maiores sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis doloribus natus nemo
-          id quod illum aut culpa perspiciatis consequuntur tempore? Facilis nam vitae iure quisquam eius harum
-          consequatur sapiente assumenda, officia voluptas quas numquam placeat, alias molestias nisi laudantium
-          nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
-          officia adipisci neque!"
+  title : "Regálate una semana diferente con nuestros volley camps"
+  content : "
+  Imagina una mañana de voley playa, seguida de un baño en el Océano Atlántico, en uno de los mejores enclaves de la isla de Tenerife. Y, cuando termines, tienes el duro trabajo de decidir si te quedan fuerzas para seguir con el deporte o si prefieres relajarte en los bares y restaurantes del Puerto de la Cruz.
+
+
+  Nuestros campamentos son una oportunidad perfecta para unas vacaciones saludables, o para un evento corporativo innovador. Una forma diferente de relajarse y cargar pilas.
+
+
+  Disfruta del clima de Canarias y de tu deporte favorito. Aprende en un lugar privilegiado, siente la arena negra bajo tus pies y conecta con la naturaleza.
+"
   image : "images/company/company-group-pic.jpg"
 
 
@@ -18,70 +19,69 @@ featured_service:
   enable : true
   service_item:
     # featured service item loop
-    - name : "Interface Design"
+    - name : "Voley playa en estado puro"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Entrenamientos para mejorar técnica, comunicación y trabajo en equipo, juego libre para practicar lo aprendido y un torneo amistoso entre los participantes como colofón final."
 
     # featured service item loop
-    - name : "Product Branding"
+    - name : "Alojamiento a tu medida"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Para todos los gustos y bolsillos, desde un hostel al lado de la playa, pasando por apartamentos, hasta un alojamiento rural para los que quieran disfrutar del silencio."
 
     # featured service item loop
-    - name : "Game Development"
+    - name : "Actividades complementarias"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim impedit repudiandae omnis est temporibus."
+      content : "Senderismo, parapente, kayak, buceo, descenso de barrancos, surf, kite surf... Tenerife es uno de los mejores enclaves de Europa para el turismo activo, y lo ponemos a tu disposición."
 
 
 ############################# Service ###############################
 service:
   enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  title : "Ventajas"
+  description : "Descubre lo que nos hace únicos"
   service_item:
     # service item loop
     - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Clima ideal
+      content: "Entrenamos al aire libre todo el año gracias a un microclima con temperaturas suaves"
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Entrenadores profesionales
+      content: "Nuestro personal técnico tiene años de experiencia en la enseñanza y tecnificación de voley playa"
 
     # service item loop
     - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Arena única
+      content: "La arena negra volcánica ofrece la densidad perfecta para entrenar minimizando lesiones"
 
     # service item loop
     - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Buen ambiente
+      content: "Fomentamos el desarrollo personal, el trabajo en equipo y la competición positiva"
 
     # service item loop
     - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Ejercicio completo
+      content: "Diseñamos los entrenamientos para mejorar la condición física de forma progresiva"
 
     # service item loop
     - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Vida social
+      content: "Organizamos actividades complementarias para disfrutar juntos de la naturaleza y del deporte"
 
     # service item loop
     - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Entrenamientos seguros
+      content: "Cumplimos las precauciones de seguridad recomendadas por el Gobierno de Canarias y la Consejería de Salud"
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: Contacto con la naturaleza
+      content: "Disponemos de la única zona de entrenamiento en la playa en el Norte de Tenerife"
 
 ############################# call to action #################################
 cta:
